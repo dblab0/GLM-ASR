@@ -30,8 +30,8 @@ Key capabilities include:
 
 ## Benchmark
 
-We evaluated GLM-ASR-Nano against leading open-source and closed-source models. The results demonstrate that *
-*GLM-ASR-Nano (1.5B)** achieves superior performance, particularly in challenging acoustic environments.
+We evaluated GLM-ASR-Nano against leading open-source and closed-source models. The results demonstrate 
+that **GLM-ASR-Nano (1.5B)** achieves superior performance, particularly in challenging acoustic environments.
 
 ![Benchmark results](resources/bench.png)
 
